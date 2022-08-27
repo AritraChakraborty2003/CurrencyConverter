@@ -31,7 +31,7 @@
 
         android:textStyle="bold"
         android:textSize="25dp"
-        android:text="Enter Currency and Amount to convert">
+        android:text="Enter Currency and Amount ">
 
 
     </TextView>
