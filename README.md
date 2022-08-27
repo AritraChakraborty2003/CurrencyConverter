@@ -10,10 +10,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/107548404/187040601-04406800-e6ab-47b8-9ebc-36413a2bfeac.jpeg" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/107548404/187040601-04406800-e6ab-47b8-9ebc-36413a2bfeac.jpeg">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/107548404/187040674-04e62a91-714b-442c-aa11-baaef22ba417.jpeg" alt="Forest" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/107548404/187040674-04e62a91-714b-442c-aa11-baaef22ba417.jpeg" alt="Forest" >
   </div>
    
    </div>
